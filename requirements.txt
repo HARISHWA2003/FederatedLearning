@@ -1,0 +1,9 @@
+tensorflow-federated
+torch
+syft
+scikit-learn
+numpy   
+pandas
+matplotlib
+Flask
+requests
